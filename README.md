@@ -2,13 +2,8 @@
 <h1 align="center"><b>Hi , I'm Manan Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting&hearts;++;Self-taught+Security+Researcher;Bug+Bounty+Hunter,CTF+Proficient;Active+Learner/Researcher;Love+to+learn+new+stuffs<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting&hearts;++;Security+Researcher;Bug+Bounty+Hunter,CTF+Proficient;Infosec+Writer;Love+to+learn+new+stuffs<3"></a>
 </p>
-
-
-<br>
-
-
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -20,10 +15,11 @@
 - A passionate Self-taught Security Researcher
 - Playing CTF's at spare time
 - Currently learning Pentesting/Red Teaming
+- I write Infosec Blogs at Medium-@0xManan
 - 2+ years of Bug Bounty Experience
 - Making some Automation Tools for all the lazy ones out there!
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -51,9 +47,9 @@
     
 - **Back-End Development**:
 
-   ![PHP](https://img.shields.io/badge/-PHP-brightgreen?style=for-the-badge)
-   ![SQL](https://img.shields.io/badge/-Sql-blue?style=for-the-badge)
-   ![Java](https://img.shields.io/badge/-JAVA-red?style=for-the-badge)
+   ![PHP](https://img.shields.io/badge/-PHP-brown?style=for-the-badge&logo=php)
+   ![SQL](https://img.shields.io/badge/-Sql-purple?style=for-the-badge&logo=SQLite)
+   ![Go](https://img.shields.io/badge/-Go%20lang-darkblue?style=for-the-badge&logo=Go))
 
 <br>
 
@@ -129,8 +125,8 @@
 <br>
 
 <li>
-<a href="mailto:dreaminnggg10@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Manan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: -6px;" />
+<a href="https://medium.com/@0xManan" target="_blank">
+<img src="https://img.shields.io/badge/medium:%20%20@0xManan-%23EA4335.svg?style=for-the-badge&logo=medium&logoColor=white" t=mail style="margin-bottom: -6px;" />
 </a>
 </li>
 	
